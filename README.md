@@ -1,5 +1,5 @@
 # Protocol-Oriented-UIKit-and-UIKit-Tests
-In this app, I used Protocol Oriented Programming and MVVM. I integrated protocols into MVVM design pattern. Also, there is no storyboard in the app. I formed constraints with code. I requested data from API and showed only specific data on the screen by using Protocol Oriented Programming. In that sense, I benefited from Protocol Oriented Programming because it supported MVVM design pattern and it is very easy to use delegate and testing with Protocol Oriented Programming. We can easily build mock functions especially for Unit tests.
+In this app, I used Protocol Oriented Programming and MVVM design pattern. I integrated protocols into MVVM. Also, there is no storyboard in the app. I formed constraints with code. I requested data from API and showed only specific data on the screen by using Protocol Oriented Programming. In that sense, I benefited from Protocol Oriented Programming because it supported MVVM design pattern and it is very easy to use delegate and testing with Protocol Oriented Programming. We can easily build mock functions especially for Unit tests.
 
 
 
